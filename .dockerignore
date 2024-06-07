@@ -1,0 +1,10 @@
+.dockerignore
+.gitignore
+.gradle/
+.idea/
+.sdkmanrc
+
+build/
+Dockerfile
+Makefile
+README.md
